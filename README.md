@@ -3,9 +3,9 @@ Diversity, Equity, and Inclusion
 
 **We value you.**
 
-The mission of WPCampus is to advance and support higher education. We believe the growth of education and research are most powerful when its voices are diverse.
+The WordPress South Africa (WPSA) community exists to support WordPress users throughout Southern Africa. We believe the best way to support each out are to ensure that we foster a diverse and inclusive community.
 
-WPCampus welcomes people of any race, color, national or ethnic origin, sex, age, size, physical ability, neurodiversity, sexual orientation, gender identity or expression, or religion.
+WPSA welcomes people of any race, color, national or ethnic origin, sex, age, size, physical ability, neurodiversity, sexual orientation, gender identity or expression, or religion.
 
 We welcome people who want to change the world, people who want to be involved, people who want to learn something new, and people who want to share their experiences with a community.
 
@@ -24,7 +24,7 @@ We encourage all members, especially contributors and leaders, to embrace the fo
 
 ### Mutual respect
 
-Within the parameters of our core values and [Code of Conduct](https://wpcampus.org/code-of-conduct/), we are committed to diversity, equity, and inclusion. Our members fundamentally value and respect experiences that are different from their own.
+Within the parameters of our core values and [Code of Conduct](https://github.com/wpsouthafrica/code-of-conduct), we are committed to diversity, equity, and inclusion. Our members fundamentally value and respect experiences that are different from their own.
 
 ### Accessibility
 
@@ -64,12 +64,4 @@ Attribution and license
 
 This statement is released under a [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/3.0/).
 
-It’s language was inspired by several others, including:
-
-*   [WordCamp St. Louis 2018](https://2018.stlouis.wordcamp.org/wordcamp-st-louis-diversity-statement/)
-*   [Open Source & Feelings Diversity Statement](http://www.osfeels.com/diversity/)
-*   [Forefront Diversity and Inclusion Statement](https://myforefront.org/about/diversity-inclusion-statement)
-
-* * *
-
-_Last modified:_ May 16, 2019 by [Rachel Cherry](/author/bamadesigner/)
+It is a forked from the WPCampus [Diversity Statement](https://www.wpcampus.org/about/guidelines/diversity/), for which we are truly thankful.
