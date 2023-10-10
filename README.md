@@ -53,11 +53,9 @@ These principles are a priority to the leaders in our community. We believe we c
 How to report feedback or issues
 --------------------------------
 
-Our desire for this statement is to be a living document that grows with our community; never perfect but always striving to improve. We welcome any and all feedback about our statement. Please submit your thoughts using [our contact form](https://wpcampus.org/contact/).
+Our desire for this statement is to be a living document that grows with our community; never perfect but always striving to improve. We welcome any and all feedback about our statement. Please submit your thoughts using [our contact form](https://wpsouthafrica.org/contact).
 
-If you’d like to share your thoughts “in person”, we encourage you to join the [monthly Diversity and Inclusion meeting](https://wpcampus.org/planning/diversity-inclusion/).
-
-If you feel that someone is not following these principles and, by extension, our [Code of Conduct](https://wpcampus.org/code-of-conduct/), we ask that you notify us via our [Code of Conduct reporting form](https://wpcampus.org/code-of-conduct/). Likewise, if you feel that any of our leaders, or the community in general, is not upholding the standards outlined in this document we encourage you to communicate that via [the Code of Conduct form](https://wpcampus.org/code-of-conduct/), our [general contact form](https://wpcampus.org/contact/), and/or in [conversation in Slack](https://wpcampus.org/get-involved/), whether public or private.
+If you feel that someone is not following these principles and, by extension, the WordPress Community [Code of Conduct](https://make.wordpress.org/handbook/community-code-of-conduct/), we ask that you notify the [WordPress Incident Response Team](https://make.wordpress.org/community/handbook/irt/) via email at reports@wordpress.org. Likewise, if you feel that any of our leaders, or the community in general, is not upholding the standards outlined in this document we encourage you to communicate that to the WordPress Incident Response Team.
 
 Attribution and license
 -----------------------
