@@ -24,7 +24,7 @@ We encourage all members, especially contributors and leaders, to embrace the fo
 
 ### Mutual respect
 
-Within the parameters of our core values and [Code of Conduct](https://github.com/wpsouthafrica/code-of-conduct), we are committed to diversity, equity, and inclusion. Our members fundamentally value and respect experiences that are different from their own.
+Within the parameters of our core values and our community's [Code of Conduct](https://make.wordpress.org/handbook/community-code-of-conduct/), we are committed to diversity, equity, and inclusion. Our members fundamentally value and respect experiences that are different from their own.
 
 ### Accessibility
 
