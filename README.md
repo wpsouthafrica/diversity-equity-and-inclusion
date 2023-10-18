@@ -3,7 +3,7 @@ Diversity, Equity, and Inclusion
 
 **We value you.**
 
-The WordPress South Africa (WPSA) community exists to support WordPress users throughout Southern Africa. We believe the best way to support each out are to ensure that we foster a diverse and inclusive community.
+The WordPress South Africa (WPSA) community exists to support WordPress users throughout South Africa. We believe the best way to support each out are to ensure that we foster a diverse and inclusive community.
 
 WPSA welcomes people of any race, color, national or ethnic origin, sex, age, size, physical ability, neurodiversity, sexual orientation, gender identity or expression, or religion.
 
